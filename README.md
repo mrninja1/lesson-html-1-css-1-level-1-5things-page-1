@@ -8,7 +8,7 @@
  1. [x] html tags
  2. [x] head tags
  3. [x] body tags
- 4. [ ] h & p tags
+ 4. [x] h & p tags
  5. [x] indentation
 
 **CSS**
