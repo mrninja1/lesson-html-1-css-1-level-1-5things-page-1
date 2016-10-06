@@ -12,8 +12,8 @@
  5. [x] indentation
 
 **CSS**
-  1. [ ] bg color
-  2. [ ] text align
+  1. [x] bg color
+  2. [x] text align
   3. [ ] font color
   4. [ ] font size
   5. [ ] px
