@@ -20,7 +20,7 @@
   6. [x] em and strong
 
 **Dev Tools**
-  1. [ ] code editors & IDEs
+  1. [x] code editors & IDEs
   2. [x] github part 1
   3. [x] google
 
