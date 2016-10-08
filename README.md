@@ -14,17 +14,17 @@
 **CSS**
   1. [x] bg color
   2. [x] text align
-  3. [ ] font color
-  4. [ ] font size
-  5. [ ] px
-  6. [ ] em and strong
+  3. [x] font color
+  4. [x] font size
+  5. [x] px
+  6. [x] em and strong
 
 **Dev Tools**
   1. [ ] code editors & IDEs
-  2. [ ] github part 1
-  3. [ ] google
+  2. [x] github part 1
+  3. [x] google
 
 ### Project details
-  1. Project name:
+  1. Project name:Top Five Favorite Movies
   2. Project summary:
   3. Project coordinator:
